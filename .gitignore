@@ -26,8 +26,9 @@ share/python-wheels/
 *.egg
 MANIFEST
 
-#Dataset Files
+#Project Files
 Dataset/
+.my_venv/
 
 # PyInstaller
 #  Usually these files are written by a python script from a template
