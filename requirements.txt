@@ -6,6 +6,11 @@ emot==3.1
 Unidecode==1.2.0
 wordcloud==1.9.4
 nltk==3.9.1
+torch==2.0.0
+pytorch_lightning==2.2.0
+torchtext==0.15.1
+mlflow==2.9.0
+gensim==4.3.0
 
 # important packages and there versions
 torch==2.0.0
