@@ -1,8 +1,0 @@
-os
-time
-warnings 
-pandas 
-numpy
-matplotlib
-seaborn
-emot==3.1
