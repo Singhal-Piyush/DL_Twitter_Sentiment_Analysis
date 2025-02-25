@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/920620067775205696/c92f9a9dc669488a899a38b2cb823806/artifacts
+end_time: 1740306059047
+entry_point_name: ''
+experiment_id: '920620067775205696'
+lifecycle_stage: active
+run_id: c92f9a9dc669488a899a38b2cb823806
+run_name: upset-doe-733
+run_uuid: c92f9a9dc669488a899a38b2cb823806
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740305138846
+status: 3
+tags: []
+user_id: root

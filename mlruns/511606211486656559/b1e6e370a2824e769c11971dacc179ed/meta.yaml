@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/511606211486656559/b1e6e370a2824e769c11971dacc179ed/artifacts
+end_time: 1740304828312
+entry_point_name: ''
+experiment_id: '511606211486656559'
+lifecycle_stage: active
+run_id: b1e6e370a2824e769c11971dacc179ed
+run_name: rare-bass-30
+run_uuid: b1e6e370a2824e769c11971dacc179ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740304014523
+status: 3
+tags: []
+user_id: root

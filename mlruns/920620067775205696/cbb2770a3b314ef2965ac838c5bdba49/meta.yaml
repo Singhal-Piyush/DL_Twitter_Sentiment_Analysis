@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/920620067775205696/cbb2770a3b314ef2965ac838c5bdba49/artifacts
+end_time: 1740306868341
+entry_point_name: ''
+experiment_id: '920620067775205696'
+lifecycle_stage: active
+run_id: cbb2770a3b314ef2965ac838c5bdba49
+run_name: traveling-horse-225
+run_uuid: cbb2770a3b314ef2965ac838c5bdba49
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740306059062
+status: 3
+tags: []
+user_id: root

@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/511606211486656559/f30b697ead2442a8b38c2b2f8a961442/artifacts
+end_time: 1740305563675
+entry_point_name: ''
+experiment_id: '511606211486656559'
+lifecycle_stage: active
+run_id: f30b697ead2442a8b38c2b2f8a961442
+run_name: brawny-dolphin-238
+run_uuid: f30b697ead2442a8b38c2b2f8a961442
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740304828317
+status: 3
+tags: []
+user_id: root

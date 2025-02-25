@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/920620067775205696/2921f31050724d0e8dfb19ffbdb8a710/artifacts
+end_time: 1740305138831
+entry_point_name: ''
+experiment_id: '920620067775205696'
+lifecycle_stage: active
+run_id: 2921f31050724d0e8dfb19ffbdb8a710
+run_name: smiling-pig-27
+run_uuid: 2921f31050724d0e8dfb19ffbdb8a710
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740304112839
+status: 3
+tags: []
+user_id: root

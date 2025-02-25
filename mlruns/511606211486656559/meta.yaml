@@ -1,0 +1,6 @@
+artifact_location: file:///content/mlruns/511606211486656559
+creation_time: 1740298656417
+experiment_id: '511606211486656559'
+last_update_time: 1740298656417
+lifecycle_stage: active
+name: LSTM

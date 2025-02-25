@@ -1,0 +1,15 @@
+artifact_uri: file:///content/mlruns/511606211486656559/807ba7ca3fcc411cafebb4aaa54cc84d/artifacts
+end_time: 1740304014518
+entry_point_name: ''
+experiment_id: '511606211486656559'
+lifecycle_stage: active
+run_id: 807ba7ca3fcc411cafebb4aaa54cc84d
+run_name: traveling-calf-604
+run_uuid: 807ba7ca3fcc411cafebb4aaa54cc84d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1740303281949
+status: 3
+tags: []
+user_id: root
